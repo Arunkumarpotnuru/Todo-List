@@ -1,10 +1,4 @@
-const todoList = [{
-    name : 'make dinner',
-    dueDate: '2022-12-22'},
-{
-    name : 'idly',
-    dueDate: '2022-11-21'
-}]; // Initialize an empty array to store the tasks
+const todoList = []; // Initialize an empty array to store the tasks
 
 sendTodoList();
 function sendTodoList() // helps to print todo list 
